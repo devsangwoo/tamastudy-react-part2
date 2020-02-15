@@ -1,7 +1,8 @@
 import React from 'react';
+import GlobalHeader from '../../components/global/GlobalHeader';
 
 const Tama = () => {
-  return <div>tama component</div>;
+  return <div>TAMA</div>;
 };
 
 export default Tama;
