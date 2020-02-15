@@ -14,7 +14,7 @@ const GlobalHeader = () => {
     >
       <div
         css={css`
-          width: 200px;
+          width: 100px;
         `}
       >
         <img
